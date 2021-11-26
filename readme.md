@@ -15,20 +15,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Mobile](#mobile)
 - [Sitemap](#sitemap)
 - [Social Media](#social-media)
-- [Tools & Services](#tools--services)
-  - [Webmasters](#webmasters)
-  - [Analytics](#analytics)
-  - [Optimization](#optimization)
-  - [Keywords](#keywords-1)
-  - [Links](#links-1)
-  - [Structured Data](#structured-data)
-  - [Bookmarklets](#bookmarklets)
-  - [Browser Extensions](#browser-extensions)
-  - [Jekyll Plugins](#jekyll-plugins)
-  - [TYPO3 Extensions](#typo3-extensions)
-  - [WordPress Plugins](#wordpress-plugins)
-- [Books](#books)
-- [Courses](#courses)
 
 ## URL
 
