@@ -29,9 +29,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Accessibility
 
 - 403: Provide a 403 - Access denied page.
-- 404: Provide a 404 - Page not found page.
 - [Custom Search](https://developers.google.com/structured-data/slsb-overview) - With Google Sitelink search box, people can reach your content more quickly.
-- File not found: Avoid `404 FILE_NOT_FOUND` errors.
 - Layout: Use `divs` instead of `tables` for layout. Using `tables` is not semantically correct.
 - Moving a website: Redirect all your links to the new location via `.htaccess`.
 - [Pagination](https://support.google.com/webmasters/answer/1663744) - Implement the `rel="next"` and `rel="prev"` attributes to links.
